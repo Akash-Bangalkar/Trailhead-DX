@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Group xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>group_id-651</description>
+    <doesIncludeBosses>true</doesIncludeBosses>
+    <name>FD-Group-651</name>
+</Group>

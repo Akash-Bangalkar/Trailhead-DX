@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>SUCCESS</fullName>
+        <default>false</default>
+        <label>SUCCESS</label>
+    </customValue>
+    <customValue>
+        <fullName>FAILED</fullName>
+        <default>false</default>
+        <label>FAILED</label>
+    </customValue>
+    <customValue>
+        <fullName>DELETED</fullName>
+        <default>false</default>
+        <label>DELETED</label>
+    </customValue>
+    <customValue>
+        <fullName>SKIPPED</fullName>
+        <default>false</default>
+        <label>SKIPPED</label>
+    </customValue>
+    <customValue>
+        <fullName>NOT ATTEMPTED</fullName>
+        <default>true</default>
+        <label>NOT ATTEMPTED</label>
+    </customValue>
+    <customValue>
+        <fullName>ALREADY DEPLOYED</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>ALREADY DEPLOYED</label>
+    </customValue>
+    <description>Deployment Status of Files (v2)</description>
+    <masterLabel>File Status</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
