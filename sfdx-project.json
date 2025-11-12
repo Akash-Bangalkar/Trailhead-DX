@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "trail",
+      "default": true
+    }
+  ],
+  "name": "Trailhead-DX",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "65.0"
+}
